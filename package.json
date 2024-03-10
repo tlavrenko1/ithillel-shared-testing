@@ -1,0 +1,20 @@
+{
+  "name": "ithillel-shared-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tlavrenko1/ithillel-shared-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tlavrenko1/ithillel-shared-testing/issues"
+  },
+  "homepage": "https://github.com/tlavrenko1/ithillel-shared-testing#readme"
+}
